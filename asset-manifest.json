@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a899a2d.chunk.css",
-    "main.js": "/static/js/main.18765487.chunk.js",
-    "main.js.map": "/static/js/main.18765487.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ba54ff1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ba54ff1.js.map",
-    "static/js/2.f9e59caf.chunk.js": "/static/js/2.f9e59caf.chunk.js",
-    "static/js/2.f9e59caf.chunk.js.map": "/static/js/2.f9e59caf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5526f40a7a0640f1b7942a97d44c279b.js": "/precache-manifest.5526f40a7a0640f1b7942a97d44c279b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9a899a2d.chunk.css.map": "/static/css/main.9a899a2d.chunk.css.map",
-    "static/js/2.f9e59caf.chunk.js.LICENSE.txt": "/static/js/2.f9e59caf.chunk.js.LICENSE.txt",
-    "static/media/bird1.png": "/static/media/bird1.1f3aa776.png",
-    "static/media/bird2.png": "/static/media/bird2.7b191a8d.png",
-    "static/media/bird3.png": "/static/media/bird3.f0723ad5.png",
-    "static/media/flappybirdBackground.jpg": "/static/media/flappybirdBackground.2acd3c5c.jpg",
-    "static/media/flappybird_SkyBuilding.jpg": "/static/media/flappybird_SkyBuilding.ac67fe34.jpg"
+    "main.css": "/flappy-bird-neat/static/css/main.9a899a2d.chunk.css",
+    "main.js": "/flappy-bird-neat/static/js/main.8ba30761.chunk.js",
+    "main.js.map": "/flappy-bird-neat/static/js/main.8ba30761.chunk.js.map",
+    "runtime-main.js": "/flappy-bird-neat/static/js/runtime-main.03747b5d.js",
+    "runtime-main.js.map": "/flappy-bird-neat/static/js/runtime-main.03747b5d.js.map",
+    "static/js/2.f9e59caf.chunk.js": "/flappy-bird-neat/static/js/2.f9e59caf.chunk.js",
+    "static/js/2.f9e59caf.chunk.js.map": "/flappy-bird-neat/static/js/2.f9e59caf.chunk.js.map",
+    "index.html": "/flappy-bird-neat/index.html",
+    "precache-manifest.e1c0ad52ea1e7135c799f1dfcd927128.js": "/flappy-bird-neat/precache-manifest.e1c0ad52ea1e7135c799f1dfcd927128.js",
+    "service-worker.js": "/flappy-bird-neat/service-worker.js",
+    "static/css/main.9a899a2d.chunk.css.map": "/flappy-bird-neat/static/css/main.9a899a2d.chunk.css.map",
+    "static/js/2.f9e59caf.chunk.js.LICENSE.txt": "/flappy-bird-neat/static/js/2.f9e59caf.chunk.js.LICENSE.txt",
+    "static/media/bird1.png": "/flappy-bird-neat/static/media/bird1.1f3aa776.png",
+    "static/media/bird2.png": "/flappy-bird-neat/static/media/bird2.7b191a8d.png",
+    "static/media/bird3.png": "/flappy-bird-neat/static/media/bird3.f0723ad5.png",
+    "static/media/flappybirdBackground.jpg": "/flappy-bird-neat/static/media/flappybirdBackground.2acd3c5c.jpg",
+    "static/media/flappybird_SkyBuilding.jpg": "/flappy-bird-neat/static/media/flappybird_SkyBuilding.ac67fe34.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ba54ff1.js",
+    "static/js/runtime-main.03747b5d.js",
     "static/js/2.f9e59caf.chunk.js",
     "static/css/main.9a899a2d.chunk.css",
-    "static/js/main.18765487.chunk.js"
+    "static/js/main.8ba30761.chunk.js"
   ]
 }
