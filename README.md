@@ -3,4 +3,4 @@
  [Live Version](https://m0bin.github.io/flappy-bird-neat/).
  
  
-![Screenshot](https://raw.githubusercontent.com/M0BiN/flappy-bird-neat/master/src/assets/demoimg.jpg)
+![Screenshot](https://raw.githubusercontent.com/M0BiN/flappy-bird-neat/gh-pages/demoimg.jpg)
